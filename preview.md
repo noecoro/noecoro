@@ -32,7 +32,7 @@ const noe = {
 ---
 
 ## 📌 Proyectos destacados
-🔹 Acá vas a ver algunos de mis proyectos fijados  
+🔹 Acá vas a ver algunos de mis proyectos fijados arriba  
 Cada uno representa algo nuevo que aprendí y un desafío que resolví.
 
 ---
